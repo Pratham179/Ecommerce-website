@@ -1,12 +1,1 @@
-{
-    "name": "Ecommerce_website",
-    "version": "1.0.0",
-    "description": "This is a ecommerce website",
-    "scripts": {
-      "start": "serve",
-    },
-    "dependencies": {
-      "serve": "^10.0.1"
-    },
-    "author": "Pratham Agrawal"
-  }
+{}
